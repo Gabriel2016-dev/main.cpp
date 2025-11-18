@@ -1,1 +1,2 @@
-# main.cpp
+# SDL3_3D
+#PROJET D'EMPLEMENTATION
